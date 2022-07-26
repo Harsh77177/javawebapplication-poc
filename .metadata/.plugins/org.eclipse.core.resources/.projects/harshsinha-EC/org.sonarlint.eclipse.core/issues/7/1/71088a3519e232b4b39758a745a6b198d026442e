@@ -1,0 +1,11 @@
+
+r
+java:S2259="AA "NullPointerException" could be thrown; "con" is nullable here.(éÆ“šûÿÿÿÿ8Ñ³ÍÖ£0HÜRMAJORZBUG
+e
+java:S4925$"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ8³¼²Ö£0H­RMAJORZ
+CODE_SMELL
+}
+java:S2095&"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ˆÎ÷²8³¼²Ö£0H¬RBLOCKERZBUG
+k
+java:S1161":Add the "@Override" annotation above this method signature(þ³‚”ûÿÿÿÿHèRMAJORZ
+CODE_SMELL
